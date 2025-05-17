@@ -39,6 +39,8 @@ but I'll dabble in anything if given the chance.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="60"/>
+  <img width="12" />
 </div>
 
 ## Contact Information
