@@ -44,8 +44,8 @@ but I'll dabble in anything if given the chance.
 </div>
 
 ## Contact Information
-Email: mxiong@uwaterloo.ca
-LinkedIn: 
+Email: mxiong@uwaterloo.ca <br/>
+LinkedIn: www.linkedin.com/in/melodie-xiong
 
 <!---
 MelbearX123/MelbearX123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
