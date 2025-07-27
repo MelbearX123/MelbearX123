@@ -1,9 +1,7 @@
 # ✨Hey there! I’m Melodie!
 
 I'm currently a 1B student in Computer Engineering at the University of Waterloo. I'm curious about Full-stack development and AI/ML (specifically computer vision), 
-but I'll dabble in anything if given the chance.
-- I'm currently looking for Fall 2025 internship!
-- In my free time, I like playing Chinese violin, playing video games, and going to the gym!
+but I'll dabble in anything if given the chance. In my free time, I like playing Chinese violin, playing video games, and going to the gym!
 
 # Skills
 <div align="left">
