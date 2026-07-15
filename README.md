@@ -1,49 +1,14 @@
-# ✨Hey there! I’m Melodie!
+# Hey there! I’m Melodie!
 
-I'm a 2A student in Computer Engineering at the University of Waterloo. I'm curious about Computer Vision, AI/ML, and a bit of full-stack development 
-but I'll dabble in anything if given the chance. In my free time, I like playing Chinese violin, playing video games, and going to the gym!
+- 2A Computer Engineering Student at the University of Waterloo 🏫
+- Curious about Computer Vision + ML + Fullstack development 💻
+- Hobbies include gaming, gym, erhu (Chinese violin), and anything I can build with my hands (legos, gunpla, etc.) 🎮
+- Always striving to learn more and to create useful technologies 🌎
 
 # Skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60"/>
-  <img width="12" />
-</div>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="60"/>
-  <img width="12" />
-</div>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="60"/>
-  <img width="12" />
-</div>
+
+Languages: Python, Typescript, C++, Javascript, HTML/CSS   <br/>
+Frameworks + Tech: Angular, OpenCV, Numpy, Nest.js, Matplotlib, Pytorch, Bootstrap5
 
 ## Contact Information
 Email: mxiong@uwaterloo.ca <br/>
