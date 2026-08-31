@@ -5,7 +5,12 @@
 - Hobbies include gaming, gym, erhu (Chinese violin), and anything I can build with my hands (legos, gunpla, etc.) 🎮
 - Always striving to learn more and to create useful technologies 🌎
 
-# Skills
+## Experience
+- Software Developer Intern at Port 443 ⚓
+- Fullstack Developer Intern at Miovision Technologies 🚦
+- Autonomy Developer at Waterloo Aerial Robotics Group
+
+## Skills
 
 Languages: Python, Typescript, C++, Javascript, HTML/CSS   <br/>
 Frameworks + Tech: Angular, OpenCV, Numpy, Nest.js, Matplotlib, Pytorch, Bootstrap5
