@@ -8,7 +8,7 @@
 ## Experience
 - Software Developer Intern at Port 443 ⚓
 - Fullstack Developer Intern at Miovision Technologies 🚦
-- Autonomy Developer at Waterloo Aerial Robotics Group
+- Autonomy Developer at Waterloo Aerial Robotics Group 𖥂
 
 ## Skills
 
