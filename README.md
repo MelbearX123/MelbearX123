@@ -19,7 +19,9 @@ Frameworks + Tech: Angular, OpenCV, Numpy, Nest.js, Matplotlib, Pytorch, Bootstr
 Email: mxiong@uwaterloo.ca <br/>
 LinkedIn: www.linkedin.com/in/melodie-xiong
 
-##### Larry Photo of the Day
+### Larry Photo of the Day
+
+Tribute to the bestest boy ever
 
 <!-- LARRY:START -->
 <!-- LARRY:END -->
