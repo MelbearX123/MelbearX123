@@ -23,7 +23,8 @@ LinkedIn: www.linkedin.com/in/melodie-xiong
 
 <div align="center">
   <!-- LARRY:START -->
-  <!-- LARRY:END -->
+<img src="dog_photos/larry3.jpeg" alt="Larry of the day" width="300">
+<!-- LARRY:END -->
   <br />
   Tribute to the bestest boy ever
 </div>
