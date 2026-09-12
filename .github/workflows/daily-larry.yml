@@ -1,0 +1,68 @@
+name: Daily Larry
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cycle-larry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick today's Larry
+        id: pick
+        run: |
+          shopt -s nullglob
+          photos=(dog_photos/larry*.{jpg,jpeg,png,gif,webp})
+          if [ "${#photos[@]}" -eq 0 ]; then
+            echo "No photos matching larry<N>.<ext> found in dog_photos/"; exit 1
+          fi
+
+          # Sort numerically by the N in larryN.ext (plain glob sorts 1,10,11,2,3... alphabetically)
+          mapfile -t sorted < <(
+            for f in "${photos[@]}"; do
+              base="$(basename "$f")"
+              num="${base#larry}"
+              num="${num%%.*}"
+              printf '%s\t%s\n' "$num" "$f"
+            done | sort -n -k1,1 | cut -f2
+          )
+
+          count=${#sorted[@]}
+          day=$(date -u +%j)
+          idx=$(( (10#$day - 1) % count ))
+          photo="${sorted[$idx]}"
+          echo "photo=$photo" >> "$GITHUB_OUTPUT"
+          echo "Selected: $photo (day $day, ${count} photos)"
+
+      - name: Update README
+        run: |
+          photo='${{ steps.pick.outputs.photo }}'
+          python - <<EOF
+          import re, pathlib, urllib.parse
+          p = pathlib.Path("README.md")
+          text = p.read_text() if p.exists() else "# Larry of the Day\n\n<!-- LARRY:START -->\n<!-- LARRY:END -->\n"
+          url = urllib.parse.quote("$photo")
+          block = f"<!-- LARRY:START -->\n![Larry of the day]({url})\n<!-- LARRY:END -->"
+          if "<!-- LARRY:START -->" in text:
+              text = re.sub(r"<!-- LARRY:START -->[\s\S]*?<!-- LARRY:END -->", block, text)
+          else:
+              text += "\n\n" + block + "\n"
+          p.write_text(text)
+          EOF
+
+      - name: Commit
+        run: |
+          if git diff --quiet; then
+            echo "No change."; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: daily Larry $(date -u +%Y-%m-%d)"
+          git push
