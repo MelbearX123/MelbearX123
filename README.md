@@ -21,11 +21,12 @@ LinkedIn: www.linkedin.com/in/melodie-xiong
 
 ## Larry Photo of the Day
 
-Tribute to the bestest boy ever
-
-<!-- LARRY:START -->
-<img src="dog_photos/larry3.jpeg" alt="Larry of the day" width="300">
-<!-- LARRY:END -->
+<div align="center">
+  <!-- LARRY:START -->
+  <!-- LARRY:END -->
+  <br />
+  Tribute to the bestest boy ever
+</div>
 
 <!---
 MelbearX123/MelbearX123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
