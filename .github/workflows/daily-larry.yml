@@ -48,7 +48,7 @@ jobs:
           p = pathlib.Path("README.md")
           text = p.read_text() if p.exists() else "# Larry of the Day\n\n<!-- LARRY:START -->\n<!-- LARRY:END -->\n"
           url = urllib.parse.quote("$photo")
-          block = f"<!-- LARRY:START -->\n![Larry of the day]({url})\n<!-- LARRY:END -->"
+          block = f'<!-- LARRY:START -->\n<img src="{url}" alt="Larry of the day" width="400">\n<!-- LARRY:END -->'
           if "<!-- LARRY:START -->" in text:
               text = re.sub(r"<!-- LARRY:START -->[\s\S]*?<!-- LARRY:END -->", block, text)
           else:
