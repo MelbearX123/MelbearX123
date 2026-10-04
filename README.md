@@ -6,9 +6,9 @@
 - Always striving to learn more and to create useful technologies 🌎
 
 ## Experience
+- Software Deloper Intern at Miovision Technologies 🚦
 - Software Developer Intern at Port 443 ⚓
-- Fullstack Developer Intern at Miovision Technologies 🚦
-- Autonomy Developer at Waterloo Aerial Robotics Group 𖥂
+- Autonomy Software Developer at Waterloo Aerial Robotics Group 𖥂
 
 ## Skills
 
