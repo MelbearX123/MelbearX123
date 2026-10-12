@@ -1,9 +1,9 @@
 # Hey there! I’m Melodie!
 
-- Third year Computer Engineering Student at the University of Waterloo 🏫
-- Curious about Computer Vision + ML + Fullstack development 💻
-- Hobbies include gaming, gym, erhu (Chinese violin), and anything I can build with my hands (legos, gunpla, etc.) 🎮
-- Always striving to learn more and to create useful technologies 🌎
+- Third year Computer Engineering Student at the University of Waterloo
+- Curious about Computer Vision + ML + Fullstack development
+- Hobbies include gaming, gym, erhu (Chinese violin), and anything I can build with my hands (legos, gunpla, etc.)
+- Always striving to learn more and to create useful technologies
 
 ## Experience
 - Software Developer Intern at Miovision Technologies 🚦
