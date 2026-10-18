@@ -3,7 +3,6 @@
 - Third year Computer Engineering Student at the University of Waterloo
 - Curious about Computer Vision + ML + Fullstack development
 - Hobbies include gaming, gym, erhu (Chinese violin), and anything I can build with my hands (legos, gunpla, etc.)
-- Always striving to learn more and to create useful technologies
 
 ## Experience
 - Software Developer Intern at Miovision Technologies 🚦
@@ -15,9 +14,6 @@
 Languages: Python, Typescript, C++, Javascript, HTML/CSS   <br/>
 Frameworks + Tech: Angular, OpenCV, Numpy, Nest.js, Matplotlib, Pytorch, Bootstrap5
 
-## Contact Information
-Email: mxiong@uwaterloo.ca <br/>
-LinkedIn: www.linkedin.com/in/melodie-xiong
 
 ## Larry Photo of the Day
 
